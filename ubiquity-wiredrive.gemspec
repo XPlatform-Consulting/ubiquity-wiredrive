@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['john.whitson@gmail.com']
   spec.summary       = %q{A library and utilities for interacting with Wiredrive's API}
   spec.description   = %q{}
-  spec.homepage      = ''
+  spec.homepage      = 'https://www.github.com/XPlatform-Consulting/ubiquity-wiredrive'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
