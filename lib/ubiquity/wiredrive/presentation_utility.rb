@@ -3,7 +3,7 @@ require 'logger'
 require 'uri'
 
 require 'ubiquity/wiredrive/api/v3/client'
-module Ubiqity::Wiredrive
+module Ubiquity::Wiredrive
 
   class PresentationUtility
 
